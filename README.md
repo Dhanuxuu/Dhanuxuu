@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dhanuxuu.github.io/MyPortfolio/](https://dhanuxuu.github.io/MyPortfolio/)
 
-- 📝 I leisurely write articles on [https://dhanutechlab.blogspot.com/](https://dhanutechlab.blogspot.com/)
+- 📝 I leisurely write articles on [https://tech-rescue-hub.blogspot.com/](https://tech-rescue-hub.blogspot.com/)
 
 - 💬 Ask me about **Laravel , React , Python**
 
