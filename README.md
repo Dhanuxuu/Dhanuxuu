@@ -10,7 +10,7 @@
 - 📫 How to reach me **hansi77dhanu@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://hansanidhanushika.vercel.app/](https://hansanidhanushika.vercel.app/)**
 - 📝 I regularly write articles on **[https://tech-rescue-hub.blogspot.com/](https://tech-rescue-hub.blogspot.com/)**
-- 📄 Know about my experiences **[https://www.overleaf.com/read/kfhzdnsmdrdj#ab054f](https://www.overleaf.com/read/kfhzdnsmdrdj#ab054f)**
+<!-- - 📄 Know about my experiences **[https://www.overleaf.com/read/kfhzdnsmdrdj#ab054f](https://www.overleaf.com/read/kfhzdnsmdrdj#ab054f)**-->
 
 ---
 
